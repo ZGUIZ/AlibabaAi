@@ -1,0 +1,27 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: AlibabaAi
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 172.31.253.118:8848
+        grpc:
+          enabled: false
+      config:
+        server-addr: 172.31.253.118:8848
+        file-extension: yaml
+        group: DEFAULT_GROUP
+        prefix: ${spring.application.name}
+        namespace: public
+  datasource:
+    url: jdbc:mysql://172.31.253.118:3306/musicplayer
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  thymeleaf:
+    prefix: classpath:/view/
+  mvc:
+    view:
+      suffix: .html

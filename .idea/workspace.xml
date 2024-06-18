@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="416b131c-1c4d-4d99-bc7c-7f267d89fbe8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AiService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AiService/src/main/java/com/zguiz/ai/ApplicationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AiService/src/main/java/com/zguiz/ai/controller/ChatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AiService/src/main/java/com/zguiz/ai/controller/CommonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AiService/src/main/java/com/zguiz/ai/service/TongYiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AiService/src/main/java/com/zguiz/ai/service/impl/TongyiServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AiService/src/main/java/com/zguiz/ai/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AiService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AiService/src/main/resources/view/chat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AiService/src/main/resources/view/pic/shenli.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2i012yHHvVBoWkNH0kMSkfMDnSt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ApplicationService.executor": "Debug",
+    "Application.Test.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.AlibabaAi [clean].executor": "Run",
+    "Maven.AlibabaAi [compile].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/WorkSpace/IdeaProject/AlibabaAi/AiService/src/main/resources/view/pic",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\IdeaProject\AlibabaAi\AiService\src\main\resources\view\pic" />
+      <recent name="D:\WorkSpace\IdeaProject\AlibabaAi\AiService\src\main\webapp" />
+      <recent name="D:\WorkSpace\IdeaProject\AlibabaAi\AiService\src\main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\IdeaProject\AlibabaAi\AiService\src\main\resources" />
+      <recent name="D:\WorkSpace\IdeaProject\AlibabaAi\AiService\src\main\webapp" />
+      <recent name="D:\WorkSpace\IdeaProject\AlibabaAi\AiService\src\main\resources\view" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zguiz.ai.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ApplicationService">
+    <configuration name="ApplicationService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zguiz.ai.ApplicationService" />
+      <module name="AiService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zguiz.ai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zguiz.ai.test.Test" />
+      <module name="AiService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zguiz.ai.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApplicationService" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="416b131c-1c4d-4d99-bc7c-7f267d89fbe8" name="Changes" comment="" />
+      <created>1718612478048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718612478048</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../repository/org/springframework/boot/spring-boot/3.2.5/spring-boot-3.2.5.jar!/org/springframework/boot/diagnostics/LoggingFailureAnalysisReporter.class</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AiService/src/main/java/com/zguiz/ai/controller/CommonController.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
