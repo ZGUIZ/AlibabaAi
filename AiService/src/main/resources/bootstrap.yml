@@ -11,10 +11,12 @@ spring:
           enabled: false
       config:
         server-addr: 172.31.253.118:8848
-        file-extension: yaml
+        file-extension: yml
         group: DEFAULT_GROUP
-        prefix: ${spring.application.name}
         namespace: public
+        shared-configs:
+          - dataId: tongyi.yml
+            refresh: true
   datasource:
     url: jdbc:mysql://172.31.253.118:3306/musicplayer
     username: root
